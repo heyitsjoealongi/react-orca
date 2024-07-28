@@ -1,0 +1,44 @@
+{
+    "name": "orca-app",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@next/third-parties": "^14.2.3",
+        "aws-amplify": "^6.3.8",
+        "formik": "^2.4.6",
+        "next": "^14.2.3",
+        "orca-app": "file:",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "recoil": "^0.7.7",
+        "recoil-persist": "^5.1.0",
+        "yup": "^1.4.0",
+        "zod": "^3.23.8"
+    },
+    "devDependencies": {
+        "@aws-amplify/backend": "^1.0.4",
+        "@aws-amplify/backend-cli": "^1.1.0",
+        "@eslint/js": "^9.3.0",
+        "@types/node": "^20.12.12",
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "@typescript-eslint/eslint-plugin": "^7.2.0",
+        "@typescript-eslint/parser": "^7.2.0",
+        "aws-cdk": "^2.148.0",
+        "aws-cdk-lib": "^2.148.0",
+        "constructs": "^10.3.0",
+        "esbuild": "^0.20.2",
+        "eslint": "^8.57.0",
+        "eslint-config-next": "14.2.3",
+        "prettier": "3.2.5",
+        "tsx": "^4.16.2",
+        "typescript": "^5.5.3",
+        "typescript-eslint": "^7.10.0"
+    }
+}
