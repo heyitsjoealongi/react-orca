@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-orca.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-orca?ref=badge_shield)
+
 
 First, run the development server:
 
@@ -38,3 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ```
 npx prettier . --write
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-orca.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-orca?ref=badge_large)
