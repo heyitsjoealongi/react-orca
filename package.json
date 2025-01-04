@@ -12,7 +12,7 @@
         "@next/third-parties": "^14.2.3",
         "aws-amplify": "^6.3.8",
         "formik": "^2.4.6",
-        "next": "^14.2.3",
+        "next": "^14.2.22",
         "orca-app": "file:",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
